@@ -1,1 +1,1 @@
-## Personal website: [triek.github.io](https://triek.github.io)
+## Personal website: [https://triek.github.io](https://triek.github.io)
